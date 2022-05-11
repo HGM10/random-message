@@ -1,0 +1,28 @@
+{
+  "name": "random-messages_hgm7",
+  "version": "1.0.1",
+  "description": "random de mensajes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "nde",
+    "npm\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Do"
+  ],
+  "author": "Heyner Hernandez <heyner717@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HGM10/random-message.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HGM10/random-message/issues"
+  },
+  "homepage": "https://github.com/HGM10/random-message#readme"
+}
