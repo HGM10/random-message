@@ -1,6 +1,6 @@
 {
   "name": "random-messages_hgm7",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "random de mensajes",
   "main": "src/index.js",
   "scripts": {
